@@ -1,1 +1,1 @@
-# inno
+# Kør script start expo
